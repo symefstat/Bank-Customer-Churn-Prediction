@@ -1,0 +1,17 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# R Markdown
+*_cache/
+*_files/
+.Rmd.html
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
